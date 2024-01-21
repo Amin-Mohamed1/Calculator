@@ -1,2 +1,2 @@
 # CalculatorApp
-Web based calculator in spring boot and vue js 
+Web based Windows Calculator in Spring boot and Vue js
